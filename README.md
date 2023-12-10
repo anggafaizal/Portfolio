@@ -8,3 +8,5 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - [New Products Sales Strategy Analysis](#New-Products-Sales-Strategy-Analysis)
+  - [Used Car Marketing Strategy Analysis](#Used-Car-Marketing-Strategy-Analysis)
+  - [Database Design & Programming](#Database-Design-&-Programming)
