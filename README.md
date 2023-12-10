@@ -35,3 +35,5 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 - **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 - **Results:** Marketing teams should focus on Introducing More Affordable Models with 0 GPB road tax: Promotions can focus on more affordable hybrid models, such as Prius, Yaris, Auris and CH-R.
 
+### Database Design & Programming
+
