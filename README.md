@@ -10,3 +10,9 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
   - [New Products Sales Strategy Analysis](#New-Products-Sales-Strategy-Analysis)
   - [Used Car Marketing Strategy Analysis](#Used-Car-Marketing-Strategy-Analysis)
   - [Database Design & Programming](#Database-Design-&-Programming)
+- [Repository Portfolio Projects](#Repository-portfolio-projects)
+   - [Python](#python)
+   - [SQL](#sql)
+- [Certificates](#certificates)
+- [contacts](#contacts)
+## Portfolio Project
