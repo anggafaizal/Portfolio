@@ -58,4 +58,9 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 
 ## Certificates
 - [Data & Business Analyst](https://drive.google.com/file/d/1-97T2IcGdHnkB5DbbTPGZnYnBER8JH8S/view?usp=sharing)
+- [Data Analyst in Power BI](https://www.datacamp.com/statement-of-accomplishment/track/33baa9ae32e2c6aa007357e22f4e796d771960ca?raw=1)
+- [Data Analyst in Python](https://www.datacamp.com/statement-of-accomplishment/track/4b9d60a4fd757afa58f60869357b55a45570423c)
+- [Database Design](https://drive.google.com/file/d/1VBkji7Gok2Fcu8WVrIhGddU2V0w31vSZ/view?usp=sharing)
+- [Database Programming](https://drive.google.com/file/d/10er6BAYb43mWieyfpjqgJxlhA06JjdK5/view?usp=sharing)
+- [Python For Data Science, AI, & Development](https://coursera.org/share/8f711cfe86dba57ba919c1b75986ee09)
   
