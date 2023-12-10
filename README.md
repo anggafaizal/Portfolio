@@ -18,16 +18,20 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 
 ## Portfolio Projects
 ### New Products Sales Strategy Analysis
-- **Code:** [New Product Sales Methods Analysis.ipynb](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/69271b3801e3b9ebfaf05fbd28f5da33566de5db/PYTHON/New%20Product%20Sales%20Strategy/New%20Product%20Sales%20Strategy.ipynb)
+- **Code:** [New_Product_Sales_Methods_Analysis.ipynb](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/69271b3801e3b9ebfaf05fbd28f5da33566de5db/PYTHON/New%20Product%20Sales%20Strategy/New%20Product%20Sales%20Strategy.ipynb)
 - **Goals:** The sales team needs to ensure that the sales methods used are the best to sell the new product effectively.
 - **Description:** The dataset contains 15000 records which consist of columns [week, sales_method r, customer_id, nb_sold, revenue, year_as_customer, nb_site_visits, country]. The project includes the following steps: describe business goals, validate data, carry out exploratory data analysis including data visualization, determine business metrics, provide recommendations for the best sales strategies.
+- **Business Metrics** : The Average Revenue Per Customer
 - **Skills:** data validation, data analysis, data visualization, Business Metrics. 
 - **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
+- **Result** : Based on the analysis result, The sales team should use Call+Email sales method as the main focus for upcoming sales strategy. because this method provides the highest average revenue per customer, and has a total revenue that tends to increase over time.
 
 ### Used Car marketing Strategy Analysis
-- **Code:** [New Products Sales Strategy Analysis](#)
-- **Goals:** The sales team needs to ensure that the sales methods used are the best to sell the new product effectively.
-- **Description:** The dataset contains 15000 records which consist of columns [week, sales_method r, customer_id, nb_sold, revenue, year_as_customer, nb_site_visits, country]. The project includes the following steps: describe business goals, validate data, carry out exploratory data analysis including data visualization, determine business metrics, provide recommendations for the best sales strategies.
+- **Code:** [New_Products_Sales_Strategy_Analysis.ipnyb](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/46dd17589e4293c47c44fba4abe2dfce24257f89/PYTHON/Marketing%20Strategy%20Analysis/Marketing%20Strategy%20Analysis.ipynb)
+- **Goals:** The marketing team wants new campaign ideas to increase sales of hybrid cars in the next six months
+- **Description:** The dataset contains 6738 records; the number of columns is 9. The project includes the following steps: describe business goals, validate data, carry out exploratory data analysis including data visualization, determine business metrics, provide recommendations for the best sales strategies.
+- **Business Metrics:** the percentage of zero-tax hybrid cars in total number of used cars sold last 6 months
 - **Skills:** data validation, data analysis, data visualization, Business Metrics. 
 - **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
+- **Results:** Marketing teams should focus on Introducing More Affordable Models with 0 GPB road tax: Promotions can focus on more affordable hybrid models, such as Prius, Yaris, Auris and CH-R.
 
