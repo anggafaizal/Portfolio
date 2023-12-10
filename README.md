@@ -4,7 +4,7 @@ Hi, I am Muhammad Angga Faizal Graduated of Engineering Physics from Gadjah Mada
 
 This repository serves as a dynamic canvas, showcasing the tapestry of my skills and providing a stage to unveil the symphony of my projects. It serves as a compass, intricately guiding the journey of my progress in the captivating realms of Data Analytics and Data Science.
 
-## Table of Contents
+## Table of Contents 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - [New Products Sales Strategy Analysis](#New-Products-Sales-Strategy-Analysis)
