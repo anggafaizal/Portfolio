@@ -14,7 +14,6 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
    - [Python](#python)
    - [SQL](#sql)
 - [Certificates](#certificates)
-- [Contacts](#contacts)
 
 ## Portfolio Projects
 ### New Products Sales Strategy Analysis
