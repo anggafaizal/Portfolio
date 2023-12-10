@@ -7,17 +7,17 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 ## Table of Contents 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [New Products Sales Strategy Analysis](#New-Products-Sales-Strategy-Analysis)
-  - [Used Car Marketing Strategy Analysis](#Used-Car-Marketing-Strategy-Analysis)
-  - [Database Design & Programming](#Database-Design-&-Programming)
-- [Repository Portfolio Projects](#Repository-portfolio-projects)
+  - [New Products Sales Strategy Analysis](#new-products-sales-strategy-analysis)
+  - [Used Car Marketing Strategy Analysis](#used-car-marketing-strategy-analysis)
+  - [Database Design & Programming](#database-design-and-programming)
+- [Repository Portfolio Projects](#repository-portfolio-projects)
    - [Python](#python)
    - [SQL](#sql)
 - [Certificates](#certificates)
-- [contacts](#contacts)
+- [Contacts](#contacts)
 ## Portfolio Project
 ### New Product Sales Strategy Analysis
-- **Code:** [New Products Sales Strategy Analysis](#portfolio-projects)
+- **Code:** [New Products Sales Strategy Analysis](#)
 - **Goals:** The sales team needs to ensure that the sales methods used are the best to sell the new product effectively.
 - **Description:** The dataset contains 15000 records which consists of column [week, sales_method r, customer_id, nb_sold, revenue, year_as_customer, nb_site_visits, country]. There is  The project includes the following steps: describe business goals, validate data, carry out exploratory data analysis including data visualization, determine business metrics, provide recommendations for the best sales strategies 
 - **Skills:** data validation, data analysis, data visualization, Business Metrics. 
