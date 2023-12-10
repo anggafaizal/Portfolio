@@ -27,7 +27,7 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 - **Result** : Based on the analysis result, The sales team should use Call+Email sales method as the main focus for upcoming sales strategy. because this method provides the highest average revenue per customer, and has a total revenue that tends to increase over time.
 
 ### Used Car marketing Strategy Analysis
-- **Code:** [New_Products_Sales_Strategy_Analysis.ipnyb](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/46dd17589e4293c47c44fba4abe2dfce24257f89/PYTHON/Marketing%20Strategy%20Analysis/Marketing%20Strategy%20Analysis.ipynb)
+- **Code:** [Hybird_Used_Car_Marketing_Strategy_Analysis.ipnyb](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/46dd17589e4293c47c44fba4abe2dfce24257f89/PYTHON/Marketing%20Strategy%20Analysis/Marketing%20Strategy%20Analysis.ipynb)
 - **Goals:** The marketing team wants new campaign ideas to increase sales of hybrid cars in the next six months
 - **Description:** The dataset contains 6738 records; the number of columns is 9. The project includes the following steps: describe business goals, validate data, carry out exploratory data analysis including data visualization, determine business metrics, provide recommendations for the best sales strategies.
 - **Business Metrics:** the percentage of zero-tax hybrid cars in total number of used cars sold last 6 months
