@@ -57,5 +57,5 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
      - [Analyze International Debt Statistics](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/6e9313efe389a8561bf3767049d02da91948971b/PYTHON/Analyze%20International%20Debt%20Statistics/Analyze%20International%20Debt%20Statistics.ipynb)
 
 ## Certificates
-- [Data & Business Analyst]()
+- [Data & Business Analyst](https://drive.google.com/file/d/1-97T2IcGdHnkB5DbbTPGZnYnBER8JH8S/view?usp=sharing)
   
