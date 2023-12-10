@@ -42,3 +42,7 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 - **Description:** The database built consists of the following entities: Insurance_Companies, Insurance_Services, Patients, Doctors, Hospitals, Employment_Contract, Diseases, Treatment_History, Prescriptions, Drugs, Details.
 - **Skills:** Database design, database normalization,  Entity Relationship Diagram (ERD), Database Programming in SQL.
 - **Technology:** PostgreSQL, Oracle Data Modeller.
+
+## Repository Projects
+- **Python**
+    - **Description:** 
