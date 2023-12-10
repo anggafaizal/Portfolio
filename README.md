@@ -15,6 +15,7 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
    - [SQL](#sql)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
+
 ## Portfolio Project
 ### New Product Sales Strategy Analysis
 - **Code:** [New Products Sales Strategy Analysis](#)
