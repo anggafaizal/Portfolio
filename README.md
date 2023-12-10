@@ -9,7 +9,7 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 - [Portfolio Projects](#portfolio-projects)
   - [New Products Sales Strategy Analysis](#new-products-sales-strategy-analysis)
   - [Used Car Marketing Strategy Analysis](#used-car-marketing-strategy-analysis)
-  - [Database Design & Programming](#database-design-and-programming)
+  - [Database Design and Programming](#database-design-and-programming)
 - [Repository Portfolio Projects](#repository-portfolio-projects)
    - [Python](#python)
    - [SQL](#sql)
@@ -17,9 +17,10 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 - [Contacts](#contacts)
 
 ## Portfolio Project
-### New Product Sales Strategy Analysis
+### New Products Sales Strategy Analysis
 - **Code:** [New Products Sales Strategy Analysis](#)
 - **Goals:** The sales team needs to ensure that the sales methods used are the best to sell the new product effectively.
-- **Description:** The dataset contains 15000 records which consists of column [week, sales_method r, customer_id, nb_sold, revenue, year_as_customer, nb_site_visits, country]. There is  The project includes the following steps: describe business goals, validate data, carry out exploratory data analysis including data visualization, determine business metrics, provide recommendations for the best sales strategies 
+- **Description:** The dataset contains 15000 records which consist of columns [week, sales_method r, customer_id, nb_sold, revenue, year_as_customer, nb_site_visits, country]. The project includes the following steps: describe business goals, validate data, carry out exploratory data analysis including data visualization, determine business metrics, provide recommendations for the best sales strategies.
 - **Skills:** data validation, data analysis, data visualization, Business Metrics. 
 - **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
+
