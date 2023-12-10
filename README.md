@@ -49,4 +49,14 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
      - [Exploring NYC Public School Test Result Scores](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/f866874bbe3abb2dcad1a8bf3d51e216ea503679/PYTHON/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb),
      - [Investigating Netflix Movies](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/f866874bbe3abb2dcad1a8bf3d51e216ea503679/PYTHON/Investigating%20Netflix%20Movies/notebook%20(4).ipynb)
 - **SQL:** and Here is a list of my other projects using SQL
-- 
+     - [Analyzing Motorcycle Part Sales](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/6e9313efe389a8561bf3767049d02da91948971b/SQL/Analyzing%20Motorcycle%20Part%20Sales/Analyzing%20Motorcycle%20Part%20Sales.ipynb)
+     - [Analyzing Students' Mental Health in SQL](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/6e9313efe389a8561bf3767049d02da91948971b/SQL/Analyzing%20Students'%20Mental%20Health%20in%20SQL/Analyzing%20Students'%20Mental%20Health%20in%20SQL.ipynb))
+     - [Analyzing Unicorn Companies](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/6e9313efe389a8561bf3767049d02da91948971b/SQL/Analyzing%20Unicorn%20Companies/Analyzing%20Unicorn%20Companies.ipynb)
+     - [Grocery Store Sales Analysis](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/6e9313efe389a8561bf3767049d02da91948971b/SQL/Grocery%20Store%20Sales%20Analysis/Grocery%20Store%20Sales%20Analysis.ipynb)
+     - [Optimizing Online Sports Retail Revenue](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/6e9313efe389a8561bf3767049d02da91948971b/SQL/Optimizing%20Online%20Sports%20Retail%20Revenue/Optimizing%20Online%20Sports%20Retail%20Revenue.ipynb)
+     - [What and Where are the World's Oldest Businesses](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/6e9313efe389a8561bf3767049d02da91948971b/SQL/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses.ipynb)
+     - [Analyze International Debt Statistics](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/6e9313efe389a8561bf3767049d02da91948971b/PYTHON/Analyze%20International%20Debt%20Statistics/Analyze%20International%20Debt%20Statistics.ipynb)
+
+## Certificates
+- [Data & Business Analyst]()
+  
