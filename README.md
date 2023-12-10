@@ -16,7 +16,7 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
-## Portfolio Project
+## Portfolio Projects
 ### New Products Sales Strategy Analysis
 - **Code:** [New Products Sales Strategy Analysis](#)
 - **Goals:** The sales team needs to ensure that the sales methods used are the best to sell the new product effectively.
