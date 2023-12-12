@@ -8,7 +8,7 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 
 ## Table of Contents 
 - [About](#about)
-- [Certified Portfolio Projects](#portfolio-projects)
+- [Portfolio Projects](#portfolio-projects)
   - [New Products Sales Strategy Analysis](#new-products-sales-strategy-analysis)
   - [Used Car Marketing Strategy Analysis](#used-car-marketing-strategy-analysis)
   - [Database Design and Programming](#database-design-and-programming)
@@ -59,7 +59,7 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
      - [Analyze International Debt Statistics](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/6e9313efe389a8561bf3767049d02da91948971b/PYTHON/Analyze%20International%20Debt%20Statistics/Analyze%20International%20Debt%20Statistics.ipynb)
 
 ## Certificates
-- [Data Analyst Professional](https://www.datacamp.com/certificate/DA0022368705100)
+- [Certified Data Analyst Professional](https://www.datacamp.com/certificate/DA0022368705100)
 - [Data & Business Analyst](https://drive.google.com/file/d/1-97T2IcGdHnkB5DbbTPGZnYnBER8JH8S/view?usp=sharing)
 - [Data Analyst in Power BI](https://www.datacamp.com/statement-of-accomplishment/track/33baa9ae32e2c6aa007357e22f4e796d771960ca?raw=1)
 - [Data Analyst in Python](https://www.datacamp.com/statement-of-accomplishment/track/4b9d60a4fd757afa58f60869357b55a45570423c)
