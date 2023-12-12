@@ -1,6 +1,8 @@
 # Muhammad Angga Faizal - Project_Portfolio_Data_Analysis
 ## About 
-Hi, I am Muhammad Angga Faizal Graduated of Engineering Physics from Gadjah Mada University who focuses on mathematical modeling for the use of renewable energy. For one semester, I took independent studies equivalent to 20 credits at Ruangguru majoring in data & business analyst in the Magang Bersama Kampus Merdeka (MBKM) program organized by the Ministry of Education and Culture. Experienced as a junior site engineer at the CV SAMA Foundation with the main task of monitoring projects and making monthly financial reports. I had an online internship at the Virtual Internship Rakamin Academy as a Data Engineer. I also have several portfolio projects in the field of data analysis and am interested in looking for new challenges in the field of data, Business Analyst, or Management Trainee. Someone who loves hard work, teamwork, learning new things, and leadership.
+Hi, I am Muhammad Angga Faizal graduated in Engineering Physics from Gadjah Mada University, specializing in mathematical modeling for renewable energy applications. As part of the Internship with Independent Campus (MBKM) program by the Ministry of Education and Culture, I pursued independent studies equivalent to 20 credits at Ruangguru, focusing on data and business analysis for a semester. I bring experience as a junior site engineer at CV SAMA Foundation, responsible for project monitoring and monthly financial reporting. Additionally, I completed an online internship as a Data Engineer at Rakamin Academy during the Virtual Internship program. With a portfolio showcasing various data analysis projects, I am eager to embrace new challenges in the realms of data, Business Analysis, or pursue opportunities in a Management Trainee role. Known for a strong work ethic, teamwork, enthusiasm for continuous learning, and leadership skills.
+
+I have also been certified as a professional data analyst by Datacamp which is known as #1 the best data analyst certification according to Forbes as in the following link (https://www.forbes.com/advisor/education/best-data-analytics-certifications/).
 
 This repository serves as a dynamic canvas, showcasing the tapestry of my skills and providing a stage to unveil the symphony of my projects. It serves as a compass, intricately guiding the journey of my progress in the captivating realms of Data Analytics and Data Science.
 
@@ -57,6 +59,7 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
      - [Analyze International Debt Statistics](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/6e9313efe389a8561bf3767049d02da91948971b/PYTHON/Analyze%20International%20Debt%20Statistics/Analyze%20International%20Debt%20Statistics.ipynb)
 
 ## Certificates
+- [Data Analyst Professional](https://www.datacamp.com/certificate/DA0022368705100)
 - [Data & Business Analyst](https://drive.google.com/file/d/1-97T2IcGdHnkB5DbbTPGZnYnBER8JH8S/view?usp=sharing)
 - [Data Analyst in Power BI](https://www.datacamp.com/statement-of-accomplishment/track/33baa9ae32e2c6aa007357e22f4e796d771960ca?raw=1)
 - [Data Analyst in Python](https://www.datacamp.com/statement-of-accomplishment/track/4b9d60a4fd757afa58f60869357b55a45570423c)
