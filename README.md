@@ -12,7 +12,7 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
   - [New Products Sales Strategy Analysis](#new-products-sales-strategy-analysis)
   - [Used Car Marketing Strategy Analysis](#used-car-marketing-strategy-analysis)
   - [Database Design and Programming](#database-design-and-programming)
-- [Repository Projects](#repository-projects)
+- [Technology Projects Repository](#repository-projects)
    - [Python](#python)
    - [SQL](#sql)
 - [Certificates](#certificates)
@@ -44,7 +44,7 @@ This repository serves as a dynamic canvas, showcasing the tapestry of my skills
 - **Skills:** Database design, database normalization,  Entity Relationship Diagram (ERD), Database Programming in SQL.
 - **Technology:** PostgreSQL, Oracle Data Modeller.
 
-## Repository Projects
+## Technology Projects Repository
 - **Python:** Here is a list of my other projects using python:
      - [Data Driven Product Management Conducting a Market Analysis](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/f866874bbe3abb2dcad1a8bf3d51e216ea503679/PYTHON/Data%20Driven%20Product%20Management%20Conducting%20a%20Market%20Analysis/Data%20Driven%20Product%20Management%20Conducting%20a%20Market%20Analysis.ipynb),
      - [Exploring NYC Public School Test Result Scores](https://github.com/anggafaizal/Project_Portfolio_Data_Analysis/blob/f866874bbe3abb2dcad1a8bf3d51e216ea503679/PYTHON/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores/Exploring%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb),
